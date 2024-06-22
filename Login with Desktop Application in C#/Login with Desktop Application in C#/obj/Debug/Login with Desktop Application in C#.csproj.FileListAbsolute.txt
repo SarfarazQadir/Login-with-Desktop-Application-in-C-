@@ -1,0 +1,10 @@
+F:\C# by Miss Aqsa\Login with Desktop Application in C#\Login with Desktop Application in C#\bin\Debug\Login with Desktop Application in C#.exe.config
+F:\C# by Miss Aqsa\Login with Desktop Application in C#\Login with Desktop Application in C#\bin\Debug\Login with Desktop Application in C#.exe
+F:\C# by Miss Aqsa\Login with Desktop Application in C#\Login with Desktop Application in C#\bin\Debug\Login with Desktop Application in C#.pdb
+F:\C# by Miss Aqsa\Login with Desktop Application in C#\Login with Desktop Application in C#\obj\Debug\Login with Desktop Application in C#.csproj.AssemblyReference.cache
+F:\C# by Miss Aqsa\Login with Desktop Application in C#\Login with Desktop Application in C#\obj\Debug\Login_with_Desktop_Application_in_C_.Form1.resources
+F:\C# by Miss Aqsa\Login with Desktop Application in C#\Login with Desktop Application in C#\obj\Debug\Login_with_Desktop_Application_in_C_.Properties.Resources.resources
+F:\C# by Miss Aqsa\Login with Desktop Application in C#\Login with Desktop Application in C#\obj\Debug\Login with Desktop Application in C#.csproj.GenerateResource.cache
+F:\C# by Miss Aqsa\Login with Desktop Application in C#\Login with Desktop Application in C#\obj\Debug\Login with Desktop Application in C#.csproj.CoreCompileInputs.cache
+F:\C# by Miss Aqsa\Login with Desktop Application in C#\Login with Desktop Application in C#\obj\Debug\Login with Desktop Application in C#.exe
+F:\C# by Miss Aqsa\Login with Desktop Application in C#\Login with Desktop Application in C#\obj\Debug\Login with Desktop Application in C#.pdb
